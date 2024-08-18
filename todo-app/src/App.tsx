@@ -1,8 +1,8 @@
-import { Button } from "./components/ui/button"
+import Todo from "./pages/Todo"
 
 const App = () => {
   return (
-    <Button>Click Me</Button>
+   <Todo/>
   )
 }
 
